@@ -1,7 +1,6 @@
 package com.register.RegisterForm.UserController;
 
 import com.register.RegisterForm.DataTransferObject.UserDto;
-import com.register.RegisterForm.Entity.User;
 import com.register.RegisterForm.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

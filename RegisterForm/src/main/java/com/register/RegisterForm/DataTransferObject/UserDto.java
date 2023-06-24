@@ -1,7 +1,5 @@
 package com.register.RegisterForm.DataTransferObject;
 
-import jakarta.persistence.Id;
-
 public class UserDto {
 
     private int userId;
