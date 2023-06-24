@@ -44,3 +44,17 @@
       }
     }
   }
+
+  .container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #007bff;
+    & div {
+      background-color: #fff;
+      border-radius: 5px;
+    }
+  }
