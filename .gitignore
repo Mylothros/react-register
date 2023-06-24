@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+
 # dependencies
 /front/node_modules
 /front/.pnp
@@ -19,3 +20,36 @@
 /front/npm-debug.log*
 /front/yarn-debug.log*
 /front/yarn-error.log*
+
+/RegisterForm/HELP.md
+/RegisterForm/target/
+/RegisterForm/!.mvn/wrapper/maven-wrapper.jar
+/RegisterForm/!**/src/main/**/target/
+/RegisterForm/!**/src/test/**/target/
+
+### STS ###
+/RegisterForm/.apt_generated
+/RegisterForm/.classpath
+/RegisterForm/.factorypath
+/RegisterForm/.project
+/RegisterForm/.settings
+/RegisterForm/.springBeans
+/RegisterForm/.sts4-cache
+
+### IntelliJ IDEA ###
+/RegisterForm/.idea
+/RegisterForm/*.iws
+/RegisterForm/*.iml
+/RegisterForm/*.ipr
+
+### NetBeans ###
+/RegisterForm/nbproject/private/
+/RegisterForm/nbbuild/
+/RegisterForm/dist/
+/RegisterForm/nbdist/
+/RegisterForm/.nb-gradle/
+/RegisterForm/build/
+/RegisterForm/!**/src/main/**/build/
+/RegisterForm/!**/src/test/**/build/
+### VS Code ###
+/RegisterForm/.vscode/
