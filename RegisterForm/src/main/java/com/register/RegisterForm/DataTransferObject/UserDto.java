@@ -54,14 +54,4 @@ public class UserDto {
         this.phoneNumber = phoneNumber;
     }
 
-    @Override
-    public String toString() {
-        return "UserDto{" +
-                "userId=" + userId +
-                ", userName='" + userName + '\'' +
-                ", surName='" + surName + '\'' +
-                ", address='" + address + '\'' +
-                ", phoneNumber=" + phoneNumber +
-                '}';
-    }
 }
