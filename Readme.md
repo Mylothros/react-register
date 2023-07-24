@@ -1,6 +1,6 @@
 # Register Form
 
-This project implements a register form application that allows users to register by providing their username, surname, address, and phone number. The backend of the application is built using Spring Boot with Hibernate and JPA, which handles the database operations for user registration and retrieval. The frontend is developed using React.js, providing a simple and intuitive user interface for registering users and displaying the registered users.
+This simple project implements a register form application that allows users to register by providing their username, surname, address, and phone number. The backend of the application is built using Spring Boot with Hibernate and JPA, which handles the database operations for user registration and retrieval. The frontend is developed using React.js, providing a simple and intuitive user interface for registering users and displaying the registered users.
 
 ## Table of Contents
 
